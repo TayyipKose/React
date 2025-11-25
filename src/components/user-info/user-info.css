@@ -1,0 +1,19 @@
+.user-container {
+    background: #f0f8ff;
+    padding: 20px;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+.user-list {
+    list-style: none;
+    padding: 0;
+}
+
+.user-list li {
+    background: #87cefa;
+    margin: 5px 0;
+    padding: 8px;
+    color: white;
+}
