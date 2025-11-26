@@ -48,7 +48,7 @@ export default Child;
  *    - Child = Göster + Tetikle (yukarı haber ver)
  *    - Parent = Tut + Yönet + Güncelle
  *
- * 5) Parent-Child Örneğinin Açıklaması
+ * 5) !!! Parent-Child Örneğinin Açıklaması
  *
  * - Parent sayıyı yönetiyor (state sadece Parent’ta).
  * - Child bu sayıyı sadece göstermek için prop olarak alıyor.
