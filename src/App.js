@@ -1,12 +1,13 @@
 import './App.css';
 import UserInfo from "./components/user-info/user-info";
 import Child from "./components/props/child";
+import Parent from "./components/props/parent";
 
 function App() {
     const _message = 'Hello World';
     return (
         <div className="App">
-            <Child></Child>
+            <Parent></Parent>
         </div>
     );
 }
