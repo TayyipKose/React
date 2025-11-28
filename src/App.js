@@ -2,12 +2,13 @@ import './App.css';
 import UserInfo from "./components/user-info/user-info";
 import Child from "./components/props/child";
 import Parent from "./components/props/parent";
+import Maps from "./components/maps-examples/maps";
 
 function App() {
     const _message = 'Hello World';
     return (
         <div className="App">
-            <Parent></Parent>
+            <Maps></Maps>
         </div>
     );
 }
