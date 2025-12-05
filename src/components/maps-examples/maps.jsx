@@ -33,7 +33,6 @@ function MapsExample() {
                     ))}
                 </ul>
             )}
-
             {!showList && <div>Liste gösterilmiyor...</div>}
         </div>
     );
